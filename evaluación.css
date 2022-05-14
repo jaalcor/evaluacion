@@ -1,0 +1,97 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+header{
+    width: 1000px;
+    height: 60px;
+    background-color: #BFC9CA;
+    border-radius: 0.5;
+    display: flex;
+    flex-direction: row;
+}
+.linea{
+    width: 500px;
+    height: 40px;
+    background-color: aliceblue;
+    margin: 0.5rem;
+}
+
+nav{
+    width: 1000px;
+    height: 60px;
+    background-color: black;
+}
+.caja padre{
+    width: 10px;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+}
+.gris{
+    width: 990px;
+    height: 500px;
+    background-color: #839192 ;
+    margin: 1em;
+
+    display: flex;
+    flex-direction: row;
+    float: left;
+}
+.negro{ 
+    width: 400px;
+    height: 20px;
+    background-color: black;
+    margin: 100px;
+}
+.ventana{ 
+    width: 200px;
+    height: 700px;
+    background-color: #BFC9CA;
+    float: right;
+    margin: 1rem;
+
+    display: flex;
+    flex-direction: row;
+}
+
+
+footer{
+    width: 600px;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.cuadro-1, .cuadro-2, .cuadro-3{
+    width: 600px;
+    height: 200px;
+    background-color: gainsboro;
+    margin: 1em; 
+}
+.caja{
+    width: 600px;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+}
+.caja-1, .caja-2, .caja-3{
+    width: 600px;
+    height: 200px;
+    background-color: gainsboro;
+    margin: 1em; 
+}
+.cuadrados{
+    width: 170px;
+    height:auto ;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.cuadrado{
+    width: 170px;
+    height: 200px;
+    background-color: #839192;
+    margin: 1rem;
+}
