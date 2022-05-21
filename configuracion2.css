@@ -5,6 +5,7 @@ box-sizing: border-box;
 }
 
 html {
-font-size: 10px;
+font-size: 13px;
 font-family: monospace; 
+text-align: justify;
 }
